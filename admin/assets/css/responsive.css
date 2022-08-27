@@ -1,0 +1,1422 @@
+@media screen and (min-width: 1650px) and (max-width: 1799px) {
+  .Dashboard-body .main-Make .Make-Ul .MakeBox label,
+  .Dashboard-body .main-Cut .Cut-Ul .CutBox label,
+  .Dashboard-body .main-Polish .Polish-Ul .PolishBox label,
+  .Dashboard-body .main-Symmetry .Symmetry-Ul .SymmetryBox label ,
+  /* FLE */
+  .Dashboard-body .main-Lab .Lab-Ul .LabBox label,
+  .Dashboard-body .main-EyeClean .EyeClean-Ul .EyeCleanBox label {
+    width: 6rem;
+    /* margin-right: 1.5rem; */
+  }
+
+  .Dashboard-body .main-Make .Make-Ul .MakeBox label {
+    width: 10rem;
+  }
+
+  .Dashboard-body .main-Brown .Brown-Ul .BrownBox label,
+  .Dashboard-body .main-Green .Green-Ul .GreenBox label,
+  .Dashboard-body .main-Milky .Milky-Ul .MilkyBox label {
+    width: 8.5rem;
+  }
+
+  /* ------------ Color ------------ */
+  .Dashboard-body .Color-boxed label {
+    margin-right: 1rem;
+  }
+
+  /* ------------ ParaMeters Acccordion ------------ */
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group {
+    /* width: 16rem; */
+    height: 4.4rem;
+    font-size: 1.6rem;
+  }
+}
+
+@media screen and (min-width: 1500px) and (max-width: 1649px) {
+  .Dashboard-body .NaturalDiamonds .boxed label {
+    width: 25rem;
+  }
+
+  .Dashboard-body .AdvanceFilter a {
+    padding: 0 2.5rem;
+  }
+
+  .Dashboard-body .Imagevideo .boxed label {
+    padding: 1rem 2.5rem;
+  }
+
+  /* Clarity */
+  .Dashboard-body .Clarity-Ul .ClarityBox label {
+    margin-right: 1.5rem;
+  }
+
+  /* MCPS */
+  .Dashboard-body .main-Make .Make-Ul .MakeBox label,
+  .Dashboard-body .main-Cut .Cut-Ul .CutBox label,
+  .Dashboard-body .main-Polish .Polish-Ul .PolishBox label,
+  .Dashboard-body .main-Symmetry .Symmetry-Ul .SymmetryBox label,
+  /* FLE */
+  .Dashboard-body .main-Lab .Lab-Ul .LabBox label,
+  .Dashboard-body .main-EyeClean .EyeClean-Ul .EyeCleanBox label {
+    width: 5.8rem;
+    margin-right: 1.5rem;
+  }
+
+  .Dashboard-body .main-Make .Make-Ul .MakeBox label,
+  .Dashboard-body .main-Fluorescence .Fluorescence-Ul .FluorescenceBox label {
+    width: 10rem;
+    margin-right: 1.5rem;
+  }
+
+  .Dashboard-body .main-Make .Make-Ul .MakeBox:last-child label {
+    margin-right: 1.5rem;
+  }
+
+  .Dashboard-body .main-Cut {
+    margin-left: 1.5rem;
+  }
+
+  /* ------------ Color ------------ */
+  .Dashboard-body .ColorRadio .Color-Radio label {
+    padding: 0.8rem 2.6rem;
+  }
+  .Dashboard-body .Color-boxed label {
+    margin-right: 1rem;
+    width: 4rem;
+    height: 4.2rem;
+  }
+
+  /* Country */
+  .Dashboard-body .main-Country .Country-Ul .CountryBox label {
+    min-width: 7rem;
+    padding: 1rem 0.8rem;
+    margin-right: 1.5rem;
+  }
+
+  .Dashboard-body .main-Brown .Brown-Ul .BrownBox label,
+  .Dashboard-body .main-Green .Green-Ul .GreenBox label,
+  .Dashboard-body .main-Milky .Milky-Ul .MilkyBox label {
+    width: 8rem;
+    margin-right: 1.5rem;
+  }
+
+  /* ------------ Search ------------ */
+  .Search-Diamond .Modify-search a {
+    width: 14rem;
+  }
+
+  .Search-Diamond .Discount .select {
+    width: 24rem;
+  }
+
+  .Search-Diamond .NaturalDiamonds .boxed label {
+    width: 24rem;
+    padding: 0.6rem 0;
+  }
+
+  .Search-Diamond .Discount img {
+    right: 3rem;
+  }
+
+  .Search-Diamond .AdvanceFilter a {
+    padding: 0 1.5rem;
+  }
+
+  .Search-Diamond .Imagevideo .boxed label {
+    padding: 0.6rem 0.8rem;
+  }
+}
+
+@media screen and (min-width: 1400px) and (max-width: 1499px) {
+  body {
+    font-size: 1.4rem;
+  }
+  .Dashboard-body .NaturalDiamonds .boxed label {
+    width: 25rem;
+  }
+
+  .Dashboard-body .AdvanceFilter a {
+    padding: 0 2.5rem;
+  }
+
+  .Dashboard-body .Imagevideo .boxed label {
+    padding: 1rem 2.5rem;
+  }
+
+  /* Clarity */
+  .Dashboard-body .Clarity-Ul .ClarityBox label {
+    margin-right: 1.5rem;
+  }
+
+  /* MCPS */
+  .Dashboard-body .main-Make .Make-Ul .MakeBox label,
+  .Dashboard-body .main-Cut .Cut-Ul .CutBox label,
+  .Dashboard-body .main-Polish .Polish-Ul .PolishBox label,
+  .Dashboard-body .main-Symmetry .Symmetry-Ul .SymmetryBox label,
+  /* FLE */
+  .Dashboard-body .main-Lab .Lab-Ul .LabBox label,
+  .Dashboard-body .main-EyeClean .EyeClean-Ul .EyeCleanBox label {
+    width: 5.4rem;
+    margin-right: 1.5rem;
+  }
+
+  .Dashboard-body .main-Make .Make-Ul .MakeBox label {
+    width: 10rem;
+    margin-right: 1.5rem;
+  }
+  .Dashboard-body .main-Fluorescence .Fluorescence-Ul .FluorescenceBox label {
+    width: 9rem;
+    margin-right: 1.5rem;
+  }
+
+  .Dashboard-body .main-Make .Make-Ul .MakeBox:last-child label {
+    margin-right: 1.5rem;
+  }
+
+  .Dashboard-body .main-Cut {
+    margin-left: 1.5rem;
+  }
+
+  /* Country */
+  .Dashboard-body .main-Country .Country-Ul .CountryBox label {
+    min-width: 7rem;
+    padding: 1rem 0.8rem;
+    margin-right: 1.5rem;
+  }
+
+  .Dashboard-body .main-Brown .Brown-Ul .BrownBox label,
+  .Dashboard-body .main-Green .Green-Ul .GreenBox label,
+  .Dashboard-body .main-Milky .Milky-Ul .MilkyBox label {
+    width: 7rem;
+    margin-right: 1.5rem;
+  }
+
+  /* ------- Color ------- */
+  .Dashboard-body .ColorRadio .Color-Radio label {
+    padding: 0.5rem 2.4rem;
+  }
+  .Dashboard-body .Color-boxed label {
+    margin-right: 1rem;
+    width: 3.6rem;
+    height: 3.6rem;
+  }
+
+  /* ------------ Search ------------- */
+  .Search-Diamond .NaturalDiamonds .boxed label {
+    width: 22rem;
+    height: 3.6rem;
+  }
+
+  .Search-Diamond .Modify-search a,
+  .Search-Diamond .Discount .select,
+  .Search-Diamond .AdvanceFilter a {
+    height: 4.6rem;
+  }
+
+  .Search-Diamond .Modify-search a {
+    width: 12rem;
+  }
+
+  .Dashboard-body .Imagevideo .boxed label {
+    padding: 1rem;
+  }
+
+  .Search-Diamond .Discount .select {
+    width: 22rem;
+  }
+
+  .Search-Diamond .Discount img {
+    right: 3rem;
+  }
+
+  .Search-Diamond .Imagevideo .boxed label {
+    padding: 0.6rem;
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+  body {
+    font-size: 1.4rem;
+  }
+
+  .Dashboard-body {
+    padding: 1.6rem;
+  }
+  .Dashboard-body .NaturalDiamonds .boxed label {
+    width: 22rem;
+    padding: 0.6rem 0;
+  }
+
+  .Dashboard-body .main-search .serch-input > .form-control {
+    font-size: 1.4rem;
+    height: 4.8rem;
+  }
+
+  .Dashboard-body .AdvanceFilter a {
+    padding: 0 1.6rem;
+    height: 4.8rem;
+  }
+
+  .Dashboard-body .Imagevideo .boxed label {
+    padding: 0.6rem 1.6rem;
+  }
+
+  /* .Dashboard-body .MCPS .PolishSymmetry {
+    margin-top: 2rem;
+  } */
+
+  /* MCPS */
+  .Dashboard-body .main-Make .Make-Ul .MakeBox label,
+  .Dashboard-body .main-Cut .Cut-Ul .CutBox label,
+  .Dashboard-body .main-Polish .Polish-Ul .PolishBox label,
+  .Dashboard-body .main-Symmetry .Symmetry-Ul .SymmetryBox label,
+  /* FLE */
+  .Dashboard-body .main-Lab .Lab-Ul .LabBox label,
+  .Dashboard-body .main-EyeClean .EyeClean-Ul .EyeCleanBox label {
+    width: 5rem;
+    margin-right: 1rem;
+  }
+
+  .Dashboard-body .main-Make .Make-Ul .MakeBox label,
+  .Dashboard-body .main-Fluorescence .Fluorescence-Ul .FluorescenceBox label {
+    width: 8rem;
+    margin-right: 1rem;
+  }
+
+  .Dashboard-body .main-Make .Make-Ul .MakeBox:last-child label {
+    margin-right: 1rem;
+  }
+
+  .Dashboard-body .main-Cut {
+    margin-left: 1rem;
+  }
+
+  /* ------------ Color ------------ */
+  .Dashboard-body .ColorRadio .Color-Radio label {
+    padding: 0.5rem 2.4rem;
+  }
+  .Dashboard-body .Color-boxed label {
+    margin-right: 1rem;
+    width: 3.6rem;
+    height: 3.6rem;
+  }
+
+  /* -----Pararmeter  Accordion ------ */
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .even {
+    padding: 0 2.6rem 0 1rem !important;
+    /* margin-top: 2rem; */
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .odd {
+    padding: 0 1rem 0 0 !important;
+    /* margin-top: 2rem; */
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion
+    .accordion-item
+    .accordion-body {
+    padding: 2rem 1rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group
+    input {
+    font-size: 1.4rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group
+    p {
+    font-size: 1.4rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group:last-child {
+    margin-left: 0.5rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group:first-child {
+    margin-right: 0.5rem;
+  }
+
+  /* Country */
+  .Dashboard-body .main-Country .Country-Ul .CountryBox label {
+    min-width: 5rem;
+    padding: 1rem 0.4rem;
+    margin-right: 1rem;
+  }
+
+  .Dashboard-body .main-Green .Green-Ul .GreenBox label,
+  .Dashboard-body .main-Brown .Brown-Ul .BrownBox label {
+    width: 6rem;
+    margin-right: 1rem;
+  }
+  .Dashboard-body .main-Milky .Milky-Ul .MilkyBox label {
+    width: 7rem;
+    margin-right: 0.8rem;
+  }
+
+  /* ------------------ Search -------------------- */
+
+  .Search-Diamond .Modify-search a,
+  .Search-Diamond .Discount .select,
+  .Dashboard-body .AdvanceFilter a,
+  .Dashboard-body .Imagevideo .boxed {
+    height: 4.6rem;
+  }
+
+  .Search-Diamond .Modify-search a {
+    width: 12rem;
+  }
+
+  .Search-Diamond .Discount img {
+    right: 3rem;
+  }
+
+  .Search-Diamond .Discount .select {
+    width: 20rem;
+    padding: 0rem 1rem;
+  }
+
+  .Dashboard-body .AdvanceFilter a {
+    padding: 0 1rem;
+  }
+
+  .Search-Diamond .Imagevideo .boxed label span {
+    display: none;
+  }
+
+  .Search-Diamond .Imagevideo .boxed label {
+    padding: 0;
+  }
+  .Search-Diamond .Imagevideo .boxed li {
+    display: flex;
+    justify-content: center;
+  }
+
+  .Dashboard-body .Imagevideo .boxed label img {
+    height: 2.5rem !important;
+    width: 2.5rem !important;
+    margin: 0 1.5rem;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  body {
+    font-size: 1.4rem;
+  }
+
+  .Dashboard-body {
+    padding: 1.2rem;
+  }
+
+  .Dashboard-body .NaturalDiamonds .boxed {
+    padding: 0.4rem;
+  }
+
+  .Dashboard-body .NaturalDiamonds .boxed label {
+    width: 14rem;
+    padding: 0.4rem 0;
+    text-align: center;
+    display: inline;
+  }
+
+  .Dashboard-body .main-search {
+    margin: 0 1rem;
+  }
+
+  .Dashboard-body .Imagevideo .boxed {
+    height: 6rem;
+  }
+
+  .Dashboard-body .AdvanceFilter {
+    margin-right: 1rem;
+  }
+
+  .Dashboard-body .main-search .serch-input > .form-control {
+    font-size: 1.4rem;
+    height: 6rem;
+  }
+
+  .Dashboard-body .AdvanceFilter a {
+    padding: 0 1.6rem;
+    height: 6rem;
+  }
+
+  .Dashboard-body .Imagevideo .boxed label {
+    padding: 0.6rem 1.6rem;
+  }
+
+  .Dashboard-body .MCPS .PolishSymmetry,
+  .Dashboard-body .FLE .LabEyeClean,
+  .Dashboard-body .CBGM .BrownGreenMilky {
+    margin-top: 2rem;
+  }
+
+  /* ------------ Color ------------ */
+  .Dashboard-body .ColorRadio .Color-Radio label {
+    padding: 0.5rem 2.4rem;
+  }
+  .Dashboard-body .Color-boxed label {
+    margin-right: 1rem;
+    width: 3.6rem;
+    height: 3.6rem;
+  }
+
+  /* -------Parameters Accordion ------- */
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion
+    .accordion-item
+    .accordion-body {
+    padding: 2rem 1rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group {
+    width: 100%;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group
+    input {
+    font-size: 1.4rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group
+    p {
+    font-size: 1.4rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group:last-child {
+    margin-left: 0.5rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group:first-child {
+    margin-right: 0.5rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .even {
+    padding-left: 0 !important;
+    padding-right: 2rem !important;
+    margin-top: 2rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .odd {
+    padding-right: 0;
+    margin-top: 2rem;
+  }
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .odd1 {
+    margin-top: 0;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter-left {
+    margin-right: 2rem !important;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .price
+    .price-left {
+    padding-right: 2rem !important;
+  }
+
+  /* --------------- Search ---------------- */
+  .Search-Diamond .NaturalDiamonds .boxed label {
+    width: 24rem;
+    display: flex;
+  }
+
+  .Search-Diamond .DashbordFilter:last-child {
+    margin-top: 1rem;
+  }
+
+  .Search-Diamond .Modify-search a,
+  .Search-Diamond .Discount .select,
+  .Search-Diamond .AdvanceFilter a,
+  .Search-Diamond .Imagevideo .boxed {
+    height: 4rem;
+  }
+
+  .Search-Diamond .Modify-search a {
+    width: 12rem;
+  }
+
+  .Search-Diamond .Discount img {
+    right: 2.6rem;
+  }
+
+  .Search-Diamond .Discount .select {
+    width: 20rem;
+    padding: 0rem 1rem;
+  }
+
+  .Search-Diamond .Imagevideo .boxed label span {
+    display: none;
+  }
+
+  .Dashboard-body .AdvanceFilter a {
+    padding: 0 1rem;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .back-layer {
+    background-color: rgba(0, 0, 0, 0.3);
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9998;
+  }
+
+  .side-nav .menu li a {
+    justify-content: left;
+    width: auto;
+    padding-left: 1rem;
+  }
+
+  .top-header {
+    padding: 0 1.6rem;
+  }
+
+  .side-nav {
+    width: 25rem;
+    position: fixed;
+    left: -30rem;
+    transition: 0.3s;
+    top: 0;
+    z-index: 9999;
+  }
+  .Active-nav {
+    left: 0rem;
+  }
+  .side-nav .menu li a h6 {
+    margin-left: 1rem;
+    display: block;
+  }
+  .side-nav .menu li a:hover h6 {
+    color: var(--color-sky);
+  }
+
+  .side-nav .menu li a img:last-child {
+    display: block;
+  }
+
+  .side-nav .menu li a:hover img:nth-child(2) {
+    display: block !important;
+  }
+  .side-nav .menu li a:hover img:first-child {
+    display: none;
+  }
+
+  .side-nav .menu li a:hover {
+    background-color: transparent;
+  }
+
+  .top-header .user-ul li {
+    margin-left: 1rem;
+  }
+
+  .side-nav-menu {
+    height: 100vh;
+    padding: 2rem 1.5rem;
+  }
+
+  /* Natural Diamonds (1,283,751) */
+  .DashbordFilter .NaturalDiamonds {
+    margin: 0 auto;
+    margin-bottom: 2rem;
+  }
+
+  .Dashboard-body .AdvanceFilter {
+    margin: 0;
+  }
+
+  .Dashboard-body .main-search {
+    margin: 0 2rem 0 0;
+  }
+
+  .Dashboard-body .AdvanceFilter a {
+    width: 5.6rem;
+    padding: 0;
+  }
+
+  .Dashboard-body .shape-Ul {
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+  }
+
+  .Dashboard-body .shape-Ul .Shape-items label {
+    width: 8rem;
+    margin-right: 0.8rem;
+    font-size: 1.2rem;
+  }
+
+  .Dashboard-body .shape-Ul::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* -------- Carat -------- */
+  .Carat-input input {
+    width: 15rem;
+    font-size: 1.4rem;
+  }
+
+  .Dashboard-body .carat-boxed {
+    margin-top: 1.5rem;
+    padding-left: 0;
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    flex-wrap: nowrap !important;
+    max-width: calc(100vw - 32px) !important;
+  }
+  .Dashboard-body .carat-boxed::-webkit-scrollbar {
+    display: none;
+  }
+
+  .Dashboard-body .carat-boxed label {
+    width: 10rem;
+    font-size: 1.4rem;
+    border: none;
+    border-radius: 2rem;
+    background-color: #f2f2f2;
+  }
+
+  /* Clarity */
+  .Dashboard-body .Clarity-Ul {
+    flex-wrap: wrap;
+    overflow-x: scroll;
+  }
+  .Dashboard-body .Clarity-Ul .ClarityBox label {
+    font-size: 1.6rem;
+    margin: 0 1.2rem 1.2rem 0;
+  }
+
+  /* MCPS */
+
+  .Dashboard-body .main-Make .borderLeft {
+    border-right: none !important;
+  }
+
+  .Dashboard-body .main-Make .Make-Ul,
+  .Dashboard-body .main-Cut .Cut-Ul,
+  .Dashboard-body .main-Polish .Polish-Ul,
+  .Dashboard-body .main-Symmetry .Symmetry-Ul,
+  .Dashboard-body .main-Fluorescence .Fluorescence-Ul,
+  .Dashboard-body .main-Lab .Lab-Ul,
+  .Dashboard-body .main-EyeClean .EyeClean-Ul {
+    flex-wrap: wrap;
+  }
+
+  .Dashboard-body .main-Make .Make-Ul .MakeBox label,
+  .Dashboard-body .main-Cut .Cut-Ul .CutBox label,
+  .Dashboard-body .main-Polish .Polish-Ul .PolishBox label,
+  .Dashboard-body .main-Symmetry .Symmetry-Ul .SymmetryBox label,
+  /* FLE */
+  .Dashboard-body .main-Fluorescence .Fluorescence-Ul .FluorescenceBox label,
+  .Dashboard-body .main-Lab .Lab-Ul .LabBox label,
+  .Dashboard-body .main-EyeClean .EyeClean-Ul .EyeCleanBox label,
+  /* CBGM */
+  .Dashboard-body .main-Country .Country-Ul .CountryBox label,
+  .Dashboard-body .main-Brown .Brown-Ul .BrownBox label,
+  .Dashboard-body .main-Green .Green-Ul .GreenBox label,
+  .Dashboard-body .main-Milky .Milky-Ul .MilkyBox label {
+    font-size: 16px;
+  }
+
+  .Dashboard-body .main-Make .Make-Ul .MakeBox:last-child label {
+    margin-right: 0;
+  }
+
+  .Dashboard-body .PolishSymmetry .main-Polish {
+    margin: 2rem 0;
+  }
+
+  .Dashboard-body .main-Cut {
+    margin-left: 0;
+  }
+
+  /* Country */
+  .Dashboard-body .main-Country .Country-Ul {
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    white-space: nowrap;
+  }
+
+  .Dashboard-body .main-Country .Country-Ul::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Modal */
+  .AdvanceModal .MineTOmarket .ResponsibleJewellery {
+    margin-top: 1rem;
+  }
+
+  .AdvanceModal .OriginCheck .form-check:last-child {
+    margin-bottom: 1.5rem;
+  }
+
+  .AdvanceModal .main-Inclusions .Inclusions-Ul {
+    flex-wrap: wrap;
+  }
+
+  /* ---------------- Color ------------------ */
+  .Dashboard-body {
+    padding: 1.4rem;
+  }
+  .Dashboard-body .ColorRadio .Color-Radio {
+    padding: 0.5rem;
+    border: 1px solid #ebebeb;
+    margin-bottom: 1.2rem;
+  }
+
+  .Dashboard-body .Color-boxed {
+    padding-left: 0;
+  }
+  .Dashboard-body .Color-boxed::-webkit-scrollbar {
+    display: none;
+  }
+
+  .Dashboard-body .ColorRadio .Color-Radio label {
+    padding: 0.4rem 6rem;
+  }
+  .Dashboard-body .ColorRadio .Color-Radio input[type="radio"]:checked + label {
+    background-color: var(--color-blue);
+    color: var(--color-white);
+  }
+
+  .Dashboard-body .Color-boxed label {
+    margin-right: 0.9rem;
+    height: 4rem;
+    width: 4rem;
+  }
+
+  /* -------ParaMeters Sccordion -----------*/
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion
+    .accordion-item
+    .accordion-body {
+    padding: 1rem;
+  }
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group:last-child,
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .price
+    .Diamond-parameter
+    .input-group:last-child {
+    margin-left: 1rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group:first-child,
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .price
+    .Diamond-parameter
+    .input-group:first-child {
+    margin-right: 1rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .even {
+    padding-left: 0 !important;
+    margin-top: 2rem;
+    padding-right: 0rem !important;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .odd {
+    padding-right: 0 !important;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .odd1 {
+    margin-top: 2rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group {
+    width: 100%;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter-left {
+    border-right: none;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .price
+    .price-left {
+    padding-right: 0rem !important;
+  }
+
+  /* Modal */
+  .AdvanceModal .MineTOmarket .ResponsibleJewellery {
+    margin-top: 1rem;
+  }
+
+  .AdvanceModal .OriginCheck .form-check:last-child {
+    margin-bottom: 0rem;
+  }
+
+  .AdvanceModal .main-Inclusions .Inclusions-Ul {
+    flex-wrap: wrap;
+  }
+
+  .AdvanceModal .main-Inclusions .Inclusions-Ul .InclusionsBox label {
+    width: 10rem;
+    margin-right: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .Dashboard-body .LabEyeClean .main-Lab {
+    margin: 2rem 0;
+  }
+
+  .Dashboard-body .main-Green {
+    margin: 2rem 0;
+  }
+  .Dashboard-body .main-Brown {
+    margin-top: 2rem;
+  }
+
+  .AdvanceModal .modal-dialog {
+    max-width: 100%;
+    margin: 1.75rem auto;
+    padding: 0 6rem;
+  }
+
+  .AdvanceModal .KeytoSymbol .form-check {
+    width: 50%;
+    margin-bottom: 1.5rem;
+  }
+
+  .AdvanceModal .ContainsCheck,
+  .AdvanceModal .OriginCheck .unknownkey {
+    font-size: 1.6rem;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  /* -------ParaMeters Sccordion -----------*/
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion
+    .accordion-item
+    .accordion-body {
+    padding: 1rem 0;
+  }
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group:last-child,
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .price
+    .Diamond-parameter
+    .input-group:last-child {
+    margin-left: 0.5rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group:first-child,
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .price
+    .Diamond-parameter
+    .input-group:first-child {
+    margin-right: 0.5rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group,
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .PR-selction
+    select {
+    font-size: 1.4rem;
+    height: 3.6rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group
+    input {
+    font-size: 1.4rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .price
+    .price-left {
+    padding-right: 0rem !important;
+  }
+}
+
+@media screen and (min-width: 575px) and (max-width: 767px) {
+  body {
+    font-size: 1.4rem;
+  }
+
+  .Dashboard-body {
+    padding: 2rem 1.6rem;
+  }
+
+  .Dashboard-body .NaturalDiamonds .boxed {
+    padding: 0.4rem;
+  }
+
+  .Dashboard-body .NaturalDiamonds .boxed label {
+    padding: 0.8rem 0;
+    width: 24rem;
+    text-align: center;
+  }
+
+  .Dashboard-body .main-search .serch-input > .form-control {
+    height: 4.8rem;
+  }
+
+  .Dashboard-body .AdvanceFilter a {
+    width: 4.8rem;
+    height: 4.8rem;
+    padding: 0;
+  }
+
+  .Dashboard-body .main-Fluorescence .Fluorescence-Ul .FluorescenceBox label {
+    margin: 0 2rem 2rem 0;
+  }
+
+  .Dashboard-body .LabEyeClean .main-Lab {
+    margin: 0 0 2rem 0;
+  }
+
+  .Dashboard-body .main-Green {
+    margin: 2rem 0;
+  }
+  .Dashboard-body .main-Brown {
+    margin-top: 2rem;
+  }
+
+  /* Modal */
+  .AdvanceModal .modal-dialog {
+    max-width: 100%;
+    margin: 1.75rem auto;
+    padding: 0 4rem;
+  }
+
+  .AdvanceModal .KeytoSymbol .form-check {
+    width: 50%;
+    margin-bottom: 1.5rem;
+  }
+
+  .AdvanceModal .MinetoOrigin .OriginCheck .form-check {
+    margin-bottom: 1.5rem;
+    width: 33.33%;
+  }
+
+  /* ------------ Search -------------- */
+  .Search-Diamond .NaturalDiamonds .boxed label {
+    width: 26rem;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  body {
+    font-size: 1.4rem;
+  }
+
+  .Dashboard-body {
+    padding: 2rem 1.6rem;
+  }
+
+  .DashbordFilter .NaturalDiamonds {
+    width: 100%;
+  }
+
+  .Dashboard-body .NaturalDiamonds .boxed {
+    padding: 0.4rem;
+  }
+
+  .Dashboard-body .NaturalDiamonds .boxed label {
+    padding: 0.8rem 0;
+    width: 100%;
+    text-align: center;
+  }
+
+  .Dashboard-body .main-search .serch-input > .form-control {
+    height: 4.8rem;
+    font-size: 1.4rem;
+  }
+
+  .Dashboard-body .AdvanceFilter a {
+    width: 4.8rem;
+    height: 4.8rem;
+    padding: 0;
+  }
+
+  /* Clarity */
+  .Dashboard-body .Clarity-Ul .ClarityBox label {
+    font-size: 1.6rem;
+  }
+
+  /* MCPS */
+
+  .Dashboard-body .main-Make .Make-Ul .MakeBox label,
+  .Dashboard-body .main-Cut .Cut-Ul .CutBox label,
+  .Dashboard-body .main-Polish .Polish-Ul .PolishBox label,
+  .Dashboard-body .main-Symmetry .Symmetry-Ul .SymmetryBox label,
+  /* FLE */
+  .Dashboard-body .main-Lab .Lab-Ul .LabBox label,
+  .Dashboard-body .main-EyeClean .EyeClean-Ul .EyeCleanBox label {
+    width: 6rem;
+    margin-right: 1rem;
+    font-size: 16px;
+  }
+
+  .Dashboard-body .main-Make .Make-Ul .MakeBox label {
+    width: 12rem;
+    margin-right: 1rem;
+  }
+
+  .Dashboard-body .main-Make .Make-Ul .MakeBox:last-child label {
+    margin-right: 1rem;
+  }
+
+  .Dashboard-body .main-Fluorescence .Fluorescence-Ul .FluorescenceBox label {
+    margin: 0 1rem 1rem 0;
+  }
+
+  .Dashboard-body .LabEyeClean .main-Lab {
+    margin: 1rem 0 2rem 0;
+  }
+
+  .Dashboard-body .main-Green {
+    margin: 1rem 0;
+  }
+  .Dashboard-body .main-Brown {
+    margin-top: 1rem;
+  }
+
+  /* CBGM */
+  .Dashboard-body .main-Country .Country-Ul .CountryBox label,
+  .Dashboard-body .main-Brown .Brown-Ul .BrownBox label,
+  .Dashboard-body .main-Green .Green-Ul .GreenBox label,
+  .Dashboard-body .main-Milky .Milky-Ul .MilkyBox label {
+    font-size: 1.6rem;
+    margin-right: 1rem;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .even,
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .odd {
+    padding-left: 0 !important;
+    /* margin-top: 2rem; */
+    padding-right: 0rem !important;
+  }
+
+  /* Modal */
+  .AdvanceModal .MineTOmarket #Responsible {
+    margin-left: 0;
+  }
+
+  .AdvanceModal .main-Inclusions .Inclusions-Ul .InclusionsBox label {
+    width: 9rem;
+    margin-right: 1.2rem;
+    margin-bottom: 1.2rem;
+  }
+
+  /* Modal */
+  .AdvanceModal .modal-dialog {
+    max-width: 100%;
+    margin: 1.75rem auto;
+    padding: 0 0rem;
+  }
+
+  .AdvanceModal .modal-content {
+    padding: 1.6rem;
+  }
+
+  .AdvanceModal .Sec-heading h5 {
+    font-size: 1.4rem !important;
+  }
+
+  .AdvanceModal .MineTOmarket .form-check {
+    margin-top: 12px;
+  }
+
+  .AdvanceModal .MineTOmarket .ResponsibleJewellery {
+    margin-top: 2rem;
+  }
+
+  .AdvanceModal .MineTOmarket .ResponsibleJewellery > .form-check {
+    padding-left: 0;
+  }
+
+  .AdvanceModal .main-Girdle .Girdle-Ul .GirdleBox label {
+    width: 13rem;
+    margin-bottom: 1.2rem;
+    margin-right: 1.2rem;
+  }
+
+  .AdvanceModal .KeytoSymbol .form-check {
+    width: 50%;
+    margin-bottom: 1.6rem;
+  }
+
+  .AdvanceModal .KeytoSymbol .ManufacturingRemnant > .form-check-label {
+    width: 90%;
+  }
+
+  .AdvanceModal .MinetoOrigin .OriginCheck .form-check {
+    margin-bottom: 1.6rem;
+    width: 50%;
+  }
+
+  .AdvanceModal .diamondsacceptreturns .form-check {
+    font-size: 1.4rem;
+  }
+  .AdvanceModal .OriginCheck .unknownkey,
+  .AdvanceModal .diamondsacceptreturns .form-check .form-check-label,
+  .AdvanceModal .HPHT .form-check .form-check-label {
+    width: 90%;
+  }
+
+  /* ---------ParaMeters Accordion ------------- */
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter-left {
+    padding: 0 !important;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter-left {
+    margin-right: 0;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .price
+    .price-left {
+    padding-right: 0 !important;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .Diamond-parameter
+    .input-group:last-child,
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .price
+    .Diamond-parameter
+    .input-group:last-child {
+    margin-left: 0;
+  }
+
+  .Dashboard-body
+    .Parameter-accordion
+    .accordion-item
+    .accordion-body
+    .price
+    .Diamond-parameter
+    .input-group:last-child {
+    margin-top: 2rem;
+  }
+
+  /* ---------- Search -------------- */
+  .Search-Diamond .NaturalDiamonds {
+    text-align: center;
+  }
+  .Search-Diamond .NaturalDiamonds .boxed label {
+    width: 17rem;
+  }
+
+  .Search-Diamond .NaturalDiamonds .boxed {
+    display: inline-flex;
+  }
+
+  .Dashboard-body .AdvanceFilter a,
+  .Search-Diamond .Modify-search a,
+  .Search-Diamond .Discount .select {
+    height: 4rem;
+  }
+
+  .Search-Diamond .Modify-search a {
+    width: 12rem;
+  }
+
+  .Search-Diamond .Discount .select {
+    display: block !important;
+    width: 14rem;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .AdvanceModal .modal-dialog {
+    max-width: 880px;
+    margin: 1.75rem auto;
+  }
+}
